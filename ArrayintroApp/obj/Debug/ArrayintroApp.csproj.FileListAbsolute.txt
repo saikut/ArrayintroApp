@@ -1,0 +1,6 @@
+D:\101193\31march\ArrayintroApp\ArrayintroApp\bin\Debug\ArrayintroApp.exe.config
+D:\101193\31march\ArrayintroApp\ArrayintroApp\bin\Debug\ArrayintroApp.exe
+D:\101193\31march\ArrayintroApp\ArrayintroApp\bin\Debug\ArrayintroApp.pdb
+D:\101193\31march\ArrayintroApp\ArrayintroApp\obj\Debug\ArrayintroApp.csprojResolveAssemblyReference.cache
+D:\101193\31march\ArrayintroApp\ArrayintroApp\obj\Debug\ArrayintroApp.exe
+D:\101193\31march\ArrayintroApp\ArrayintroApp\obj\Debug\ArrayintroApp.pdb
